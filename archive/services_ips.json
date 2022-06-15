@@ -1,0 +1,82 @@
+[
+  {
+    "title": "kubernetes",
+    "host": "10.152.183.1",
+    "port": 443
+  },
+  {
+    "title": "kube-dns",
+    "host": "10.152.183.10",
+    "port": 53
+  },
+  {
+    "title": "metrics-server",
+    "host": "10.152.183.186",
+    "port": 443
+  },
+  {
+    "title": "blackbox-exporter",
+    "host": "10.152.183.118",
+    "port": 9115
+  },
+  {
+    "title": "prometheus-adapter",
+    "host": "10.152.183.55",
+    "port": 443
+  },
+  {
+    "title": "alertmanager-main",
+    "host": "10.152.183.224",
+    "port": 9093
+  },
+  {
+    "title": "grafana",
+    "host": "10.152.183.54",
+    "port": 3000
+  },
+  {
+    "title": "prometheus-k8s",
+    "host": "10.152.183.225",
+    "port": 9090
+  },
+  {
+    "title": "hubot",
+    "host": "10.152.183.59",
+    "port": 80
+  },
+  {
+    "title": "jenkins-exporter",
+    "host": "10.152.183.132",
+    "port": 9118
+  },
+  {
+    "title": "kowl",
+    "host": "10.152.183.76",
+    "port": 80
+  },
+  {
+    "title": "recipes",
+    "host": "10.152.183.248",
+    "port": 80
+  },
+  {
+    "title": "versions",
+    "host": "10.152.183.92",
+    "port": 80
+  },
+  {
+    "title": "zoonavigator",
+    "host": "10.152.183.25",
+    "port": 80
+  },
+  {
+    "title": "web",
+    "host": "10.152.183.75",
+    "port": 80
+  },
+  {
+    "title": "cmak",
+    "host": "10.152.183.219",
+    "port": 80
+  }
+]

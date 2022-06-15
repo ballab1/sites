@@ -1,0 +1,298 @@
+[
+{
+  "name":"akhq",
+  "id":"KAFKAHQ_VERSION",
+  "version":"0.21.0",
+  "url":"https://hub.docker.com/r/tchiotludo/akhq/tags",
+  "docs":"https://www.kafka-eagle.org/index.html",
+  "docker":"https://hub.docker.com/r/tchiotludo/akhq/tags",
+  "git":"https://github.com/tchiotludo/akhq"
+},
+{
+  "name":"alpine",
+  "id":"ALPINE_VERSION",
+  "version":"3.13.10",
+  "url":"https://hub.docker.com/_/alpine?tab=tags&page=1&ordering=last_updated",
+  "git":"https://git.alpinelinux.org"
+},
+{
+  "name":"cadvisor",
+  "id":"CADVISOR_VERSION",
+  "version":"0.36.0",
+  "url":"https://console.cloud.google.com/gcr/images/google-containers/GLOBAL/cadvisor?gcrImageListsize: 30",
+  "git":"https://github.com/google/cadvisor"
+},
+{
+  "name":"cesi",
+  "id":"CESI_VERSION",
+  "version":"2.7.1",
+  "url":"https://github.com/gamegos/cesi/releases",
+  "git":"https://github.com/gamegos/cesi"
+},
+{
+  "name":"cmak",
+  "id":"CMAK_VERSION",
+  "version":"3.0.0.6",
+  "url":"https://github.com/yahoo/CMAK/tags",
+  "git":"https://github.com/yahoo/CMAK"
+},
+{
+  "name":"confluent",
+  "id":"CONFLUENT_VERSION",
+  "version":"7.1.1",
+  "url":"https://docs.confluent.io/current/release-notes/index.html"
+},
+{
+  "name":"docker-compose",
+  "id":"DOCKERCOMPOSE_VERSION",
+  "version":"2.6.0",
+  "url":"https://github.com/docker/compose/releases",
+  "git":"https://github.com/docker/compose"
+},
+{
+  "name":"docker-registry-frontend",
+  "id":"DREGISTRY_FE_VERSION",
+  "version":"v2",
+  "url":"https://hub.docker.com/r/konradkleine/docker-registry-frontend/tags",
+  "git":"https://github.com/kwk/docker-registry-frontend"
+},
+{
+  "name":"efak",
+  "id":"KAFKA_EAGLE_VERSION",
+  "version":"2.1.0",
+  "url":"https://github.com/smartloli/EFAK/tags",
+  "docs":"https://www.kafka-eagle.org/index.html",
+  "git":"https://github.com/smartloli/EFAK"
+},
+{
+  "name":"elasticsearch",
+  "id":"ELASTICSEARCH_VERSION",
+  "version":"8.2.2",
+  "url":"https://www.elastic.co/downloads/elasticsearch"
+},
+{
+  "name":"fixuid",
+  "id":"FIXUID_VERSION",
+  "version":"0.5.1",
+  "url":"https://github.com/boxboat/fixuid/releases",
+  "git":"https://github.com/boxboat/fixuid"
+},
+{
+  "name":"git",
+  "id":"GIT_VERSION",
+  "version":"2.36.1",
+  "url":"https://git-scm.com/downloads",
+  "docs":"https://git-scm.com/doc"
+},
+{
+  "name":"git-crypt",
+  "id":"GIT_CRYPT_VERSION",
+  "version":"0.7.0",
+  "url":"https://github.com/AGWA/git-crypt/tags",
+  "git":"https://github.com/AGWA/git-crypt"
+},
+{
+  "name":"glances",
+  "id":"GLANCES_VERSION",
+  "version":"latest",
+  "url":"https://hub.docker.com/r/vimagick/glances/tags",
+  "docs":"https://glances.readthedocs.io/en/latest/quickstart.html",
+  "git":"https://github.com/nicolargo/glances"
+},
+{
+  "name":"grafana",
+  "id":"GRAFANA_VERSION",
+  "version":"8.5.5",
+  "url":"https://hub.docker.com/r/grafana/grafana/tags",
+  "docs":"https://grafana.com/grafana/download",
+  "git":"https://github.com/grafana/grafana"
+},
+{
+  "name":"jasonnet",
+  "id":"JASONNET_VERSION",
+  "version":"0.18.0-debian-10-r84",
+  "url":"https://hub.docker.com/r/bitnami/jsonnet/tags",
+  "docs":"https://https://jsonnet.org/",
+  "git":"https://github.com/google/jsonnet"
+},
+{
+  "name":"jenkins",
+  "id":"JENKINS_VERSION",
+  "version":"2.332.3",
+  "url":"https://jenkins.io/download",
+  "git":"https://github.com/jenkinsci/jenkins"
+},
+{
+  "name":"jenkins-agent",
+  "id":"JENKINS_AGENT_VERSION",
+  "version":"4.11-1-jdk11",
+  "url":"https://hub.docker.com/r/jenkins/inbound-agent/tags",
+  "docker":"https://hub.docker.com/r/jenkins/inbound-agent",
+  "git":"https://github.com/jenkinsci/jenkins"
+},
+{
+  "name":"jira",
+  "id":"JIRA_VERSION",
+  "version":"8.13.8",
+  "url":"https://hub.docker.com/r/atlassian/jira-software/tags"
+},
+{
+  "name":"JWT",
+  "id":"JWT_VERSION",
+  "version":"5.0.3",
+  "url":"https://github.com/mike-engel/jwt-cli/releases",
+  "git":"https://github.com/mike-engel/jwt-cli"
+},
+{
+  "name":"k8s-libsonnet",
+  "id":"K8S_LIBSONNET_VERSION",
+  "version":"4be83346f2c5b06a03cb8ee726ec66aab33a60bb",
+  "url":"https://github.com/jsonnet-libs/k8s-libsonnet",
+  "docs":"https://jsonnet-libs.github.io/k8s-libsonnet",
+  "git":"https://github.com/jsonnet-libs/k8s-libsonnet"
+},
+{
+  "name":"kafdrop",
+  "id":"KAFDROP_VERSION",
+  "version":"3.30.0",
+  "url":"https://hub.docker.com/r/obsidiandynamics/kafdrop/tags",
+  "docker":"https://hub.docker.com/r/obsidiandynamics/kafdrop",
+  "git":"https://github.com/obsidiandynamics/kafdrop"
+},
+{
+  "name":"kcat",
+  "id":"KCAT_VERSION",
+  "version":"1.7.1",
+  "url":"https://hub.docker.com/r/edenhill/kcat/tags",
+  "docker":"https://hub.docker.com/r/edenhill/kcat",
+  "git":"https://github.com/edenhill/kcat/tags"
+},
+{
+  "name":"kowl",
+  "id":"KOWL_VERSION",
+  "version":"1.5.0",
+  "url":"https://quay.io/repository/cloudhut/kowl?tab=tags",
+  "docker":"https://quay.io/repository/cloudhut/kowl",
+  "git":"https://github.com/cloudhut/kowl"
+},
+{
+  "name":"kubernetesui-dashboard",
+  "id":"KUBERNETESUI_DASHBOARD_VERSION",
+  "version":"2.6.0",
+  "url":"https://hub.docker.com/r/kubernetesui/dashboard/tags",
+  "docker":"https://hub.docker.com/r/kubernetesui/dashboard",
+  "git":"https://github.com/kubernetes/dashboard"
+},
+{
+  "name":"microk8s",
+  "id":"K8S_VERSION",
+  "version":"1.23.6-2",
+  "url":"https://microk8s.io/docs/release-notes"
+},
+{
+  "name":"mysql",
+  "id":"MYSQL_VERSION",
+  "version":"5.7.23",
+  "url":"https://hub.docker.com/_/mysql?tab=tags",
+  "git":"https://github.com/mysql/mysql-server"
+},
+{
+  "name":"nagios",
+  "id":"NAGIOS_VERSION",
+  "version":"4.4.7",
+  "url":"https://www.nagios.org/projects/nagios-core/history/4x/",
+  "git":"https://github.com/NagiosEnterprises/nagioscore"
+},
+{
+  "name":"nconf",
+  "id":"NCONF_VERSION",
+  "version":"nconf-v1.4.0-final2",
+  "url":"https://github.com/Bonsaif/new-nconf/tags",
+  "git":"https://github.com/Bonsaif/new-nconf",
+  "org-version":"1.3.0-0",
+  "old_url":"https://github.com/nconf/nconf/releases",
+  "old_git":"https://github.com/nconf/nconf"
+},
+{
+  "name":"nginx",
+  "id":"NGINX_VERSION",
+  "version":"1.20.2",
+  "url":"https://nginx.org/en/download.html",
+  "git":"https://github.com/nginx/nginx"
+},
+{
+  "name":"pgadmin4",
+  "id":"PGADMIN4_VERSION",
+  "version":"6.9",
+  "url":"https://hub.docker.com/r/dpage/pgadmin4/tags",
+  "git":"https://git.postgresql.org/gitweb/?p=pgadmin4.git;a=summary"
+},
+{
+  "name":"phpmyadmin",
+  "id":"PHPMYADMIN_VERSION",
+  "version":"5.2.0",
+  "url":"https://www.phpmyadmin.net",
+  "git":"https://github.com/phpmyadmin/phpmyadmin"
+},
+{
+  "name":"pi_hole",
+  "id":"PI_HOLE_VERSION",
+  "version":"v5.6",
+  "url":"https://hub.docker.com/r/pihole/pihole/tags",
+  "git":"https://github.com/pi-hole/docker-pi-hole/releases",
+  "docs":"https://docs.pi-hole.net/"
+},
+{
+  "name":"pnp4nagios",
+  "id":"PNP4NAGIOS_VERSION",
+  "version":"0.6.26",
+  "url":"https://github.com/lingej/pnp4nagios/tags",
+  "git":"https://github.com/lingej/pnp4nagios",
+  "docs":"http://docs.pnp4nagios.org/pnp-0.6/doc_complete"
+},
+{
+  "name":"postgresql",
+  "id":"POSTGRES_VERSION",
+  "version":"14.3",
+  "url":"https://www.postgresql.org",
+  "git":"https://github.com/postgres/postgres"
+},
+{
+  "name":"quantile",
+  "id":"QUANTILE_VERSION",
+  "version":"1.1.7",
+  "commit":"244b6285e2c6a8d73bc555d7103200985e371bfa",
+  "url":"https://github.com/tvondra/quantile",
+  "git":"https://github.com/tvondra/quantile"
+},
+{
+  "name":"smonitor",
+  "id":"SMONITOR_VERSION",
+  "version":"v1.1.0",
+  "url":"https://github.com/mlazarov/supervisord-monitor/releases",
+  "git":"https://github.com/mlazarov/supervisord-monitor"
+},
+{
+  "name":"timescaledb",
+  "id":"TIMESCALEDB_VERSION",
+  "version":"2.6.1",
+  "url":"https://github.com/timescale/timescaledb/releases",
+  "git":"https://github.com/timescale/timescaledb"
+},
+{
+  "name":"wireshark",
+  "id":"WIRESHARK_VERSION",
+  "version":"3.4.9-r0",
+  "url":"https://hub.docker.com/r/linuxserver/wireshark/tags",
+  "git":"https://github.com/linuxserver/docker-wireshark"
+},
+{
+  "name":"zoonavigator",
+  "id":"ZOONAVIGATOR_VERSION",
+  "version":"1.1.2",
+  "url":"https://hub.docker.com/r/elkozmon/zoonavigator/tags",
+  "docker":"https://hub.docker.com/r/elkozmon/zoonavigator",
+  "docs":"https://zoonavigator.elkozmon.com/en/latest/",
+  "git":"https://github.com/elkozmon/zoonavigator"
+}
+]

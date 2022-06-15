@@ -1,0 +1,128 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background: white;
+  color: black;
+  font-family: Tahoma, Verdana, Arial, sans-serif;
+  font-size: 10pt;
+  height: 100%;
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+}
+.all {
+  width: 100%;
+}
+.box {
+  display: table-cell;
+}
+.btn a {
+  display: block;
+  text-align: center;
+  width: 100%;
+  z-index: 2;
+}
+.center {
+  width: auto;
+  margin: 0 auto;
+}
+.footer {
+  background: green;
+  color: beige;
+  display: table-row;
+  height:10px;
+  width: 100%;
+}
+.header {
+  background-color: white;
+  border: 3px solid #CCCCCC;
+  box-shadow: 1px 0px 0 3px #CCCCCC;
+  color: #4281C8;
+  height: 60px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  z-index: 1;
+  width: 100%;
+}
+.left {
+  text-align: left;
+  width: 100%;
+}
+.leftsidebar {
+  position: relative;
+  width: 80px;
+  left: 0px;
+  top: 0px
+}
+.main {
+  position: relative;
+  top: 70px;
+}
+.middle {
+  width: 80%;
+}
+.recipe {
+  border: 0;
+  padding: 5px 5px 5px 5px;
+  width: 25%;
+}
+.row {
+  display: table-row;
+  width: 100%;
+}
+.rightsidebar {
+  position: relative;
+  width: 80px;
+  right: 0px;
+  top: 0px
+}
+.sidenav {
+  width: 80px;
+  position: fixed;
+  z-index: 1;
+  top: 60px;
+  left: 0;
+  display: block;
+  background-color: orange;
+  overflow-x: hidden;
+}
+.sidenav a {
+  background-color: #EFEFEF;
+  border-style: outset;
+  padding: 1px 1px 1px 1px;
+  text-decoration: none;
+  color: black;
+  display: block;
+}
+.sidenav a:hover {
+  color: blue;
+}
+.summary {
+  background-color: orange;
+  display: block;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 11px;
+  height: 39px;
+  left: 0px;
+  padding: 14px 14px 10px 14px;
+  position: fixed;
+  top: 0px;
+  width: 52px;
+  z-index: 2;
+}
+.table {
+  display: table;
+}
+.title {
+  font-size: 25pt;
+  font-weight: bold;
+  padding: 10px 10px 10px 10px;
+  text-align: center;
+  width: 100%;
+}
+.vspace {
+  height:10px;
+}

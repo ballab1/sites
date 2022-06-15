@@ -1,0 +1,595 @@
+[
+  {
+    "text": "Eggplant Pecorino",
+    "file": "Eggplant Pecorino.pdf",
+    "image": "images/Eggplant-Pecorino.jfif",
+    "category": "vegetarian",
+    "course": "entre",
+    "cuisine": "Italian"
+  },
+  {
+    "text": "Roast Boneless Leg of Lamb with Garlic, Herb, and Bread Crumb Crust",
+    "file": "Roast Boneless Leg of Lamb with Garlic, Herb, and Bread Crumb Crust.pdf",
+    "image": "images/boneless-leg-of-lamb-garlic-herb-crust.jfif",
+    "category": "meat",
+    "course": "entre",
+    "cuisine": "other"
+  },
+  {
+    "text": "Crushed Red Potatoes with Garlic and Herbs",
+    "file": "Crushed Red Potatoes with Garlic and Herbs.pdf",
+    "image": "images/crushed-red-potatoes-with-garlic-and-herbs.jpg",
+    "category": "vegetarian",
+    "course": "side",
+    "cuisine": "other"
+  },
+  {
+    "text": "Grilled Jerk Chicken",
+    "file": "Grilled Jerk Chicken.pdf",
+    "image": "images/Jerk-Chicken.jpg",
+    "category": "poultry",
+    "course": "entre",
+    "cuisine": "other"
+  },
+  {
+    "text": "Smoked Chicken Wings",
+    "file": "Smoked Chicken Wings.pdf",
+    "image": "images/smoked-chicken-wings.jpg",
+    "category": "poultry",
+    "course": "entre",
+    "cuisine": "other"
+  },
+  {
+    "text": "Thin and Crispy Chocolate Chip Cookies",
+    "file": "Thin and Crispy Chocolate Chip Cookies.pdf",
+    "image": "images/thin-and-crispy-chocolate-chip-cookies.jpg",
+    "category": "vegetarian",
+    "course": "desert",
+    "cuisine": "other"
+  },
+
+  {
+    "text": "Baked Sole Fillets with Herbs and Bread Crumbs",
+    "file": "Baked_Sole_Fillets_with_Herbs_and_Bread_Crumbs.pdf",
+    "image": "images/Baked_Sole_Fillets_with_Herbs_and_Bread_Crumbs.jpg",
+    "category": "fish",
+    "course": "entre",
+    "cuisine": "other"
+  },
+  {
+    "text": "Beef Stir-Fry with Bell Peppers and Black Pepper Sauce",
+    "file": "Beef_Stir-Fry_with_Bell_Peppers_and_Black_Pepper_Sauce.pdf",
+    "image": "images/Beef_Stir-Fry_with_Bell_Peppers_and_Black_Pepper_Sauce.png",
+    "category": "meat",
+    "course": "entre",
+    "cuisine": "Asian"
+  },
+  {
+    "text": "Best Chicken Stew",
+    "file": "Best_Chicken_Stew.pdf",
+    "image": "images/Best_Chicken_Stew.jpg",
+    "category": "poultry",
+    "course": "entre",
+    "cuisine": "other"
+  },
+  {
+    "text": "Best Vegetarian Chili",
+    "file": "Best_Vegetarian_Chili.pdf",
+    "image": "images/Best_Vegetarian_Chili.jpg",
+    "category": "vegetarian",
+    "course": "entre",
+    "cuisine": "other"
+  },
+  {
+    "text": "Black Bean Burgers",
+    "file": "Black_Bean_Burgers.pdf",
+    "image": "images/Black_Bean_Burgers.jpg",
+    "category": "vegetarian",
+    "course": "entre",
+    "cuisine": "other"
+  },
+  {
+    "text": "Braised Chicken with Mustard and Herbs",
+    "file": "Braised_Chicken_with_Mustard_and_Herbs.pdf",
+    "image": "images/braised-chicken-mustard-herbs.jpg",
+    "category": "poultry",
+    "course": "entre",
+    "cuisine": "other"
+  },
+  {
+    "text": "Broccoli and Feta Frittata",
+    "file": "Broccoli_and_Feta_Frittata.pdf",
+    "image": "images/Broccoli_and_Feta_Frittata.jpg",
+    "category": "vegetarian",
+    "course": "side",
+    "cuisine": "other"
+  },
+  {
+    "text": "Brown Rice Bowl with Vegetables and Salmon",
+    "file": "Brown_Rice_Bowl_with_Vegetables_and_Salmon.pdf",
+    "image": "images/brown-rice-bowl-vegetables-salmon.jpg",
+    "category": "fish",
+    "course": "entre",
+    "cuisine": "Asian"
+  },
+  {
+    "text": "Charcoal-Grilled Barbecued Chicken Kebabs",
+    "file": "Charcoal-Grilled_Barbecued_Chicken_Kebabs.pdf",
+    "image": "images/bbq-chicken-skewers.jpg",
+    "category": "poultry",
+    "course": "entre",
+    "cuisine": "Greek"
+  },
+  {
+    "text": "Falafel",
+    "file": "Falafel.pdf",
+    "image": "images/falafel-and-pita.jpg",
+    "category": "vegetarian",
+    "course": "entre",
+    "cuisine": "Greek"
+  },
+  {
+    "text": "British-Style Currant Scones",
+    "file": "British-Style_Currant_Scones.pdf",
+    "image": "images/British-Style_Currant_Scones.jpg",
+    "category": "bread",
+    "course": "desert",
+    "cuisine": "British"
+  },
+  {
+    "text": "Broiled Pork Tenderloin",
+    "file": "Broiled_Pork_Tenderloin.pdf",
+    "image": "images/Broiled_Pork_Tenderloin.jpg",
+    "category": "meat",
+    "course": "entre",
+    "cuisine": "other"
+  },
+  {
+    "text": "Carrot Layer Cake",
+    "file": "Carrot_Layer_Cake.pdf",
+    "image": "images/Carrot_Layer_Cake.jpg",
+    "category": "other",
+    "course": "desert",
+    "cuisine": "other"
+  },
+  {
+    "text": "Cauliflower Cheese Pie",
+    "file": "Cauliflower_Cheese_Pie.pdf",
+    "image": "images/Cauliflower_Cheese_Pie.jpg",
+    "category": "vegetarian",
+    "course": "side",
+    "cuisine": "other"
+  },
+  {
+    "text": "Chicken with Tomato-Balsamic Pan Sauce",
+    "file": "Chicken_with_Tomato-Balsamic_Pan_Sauce.pdf",
+    "image": "images/chicken-with-tomato-balsamic-pan-sauce.jfif",
+    "category": "poultry",
+    "course": "entre",
+    "cuisine": "other"
+  },
+  {
+    "text": "Chicken Paprikash",
+    "file": "Chicken_Paprikash.pdf",
+    "image": "images/ChickenPaprikash.webp",
+    "category": "poultry",
+    "course": "entre",
+    "cuisine": "Hungarian"
+  },
+  {
+    "text": "Chicken Vesuvio",
+    "file": "Chicken_Vesuvio.pdf",
+    "image": "images/Chicken_Vesuvio.jpg",
+    "category": "poultry",
+    "course": "entre",
+    "cuisine": "Italian"
+  },
+  {
+    "text": "Coq au Riesling",
+    "file": "Coq_au_Riesling.pdf",
+    "image": "images/Coq_au_Riesling.jpg",
+    "category": "poultry",
+    "course": "entre",
+    "cuisine": "French"
+  },
+  {
+    "text": "Crispy-Skinned Chicken Breasts with Vinegar-Pepper Pan Sauce",
+    "file": "Crispy-Skinned_Chicken_Breasts_with_Vinegar-Pepper_Pan_Sauce.pdf",
+    "image": "images/Crispy-Skinned_Chicken_Breasts_with_Vinegar-Pepper_Pan_Sauce.jpg",
+    "category": "poultry",
+    "course": "entre",
+    "cuisine": "other"
+  },
+  {
+    "text": "Drunken Beans",
+    "file": "Drunken_Beans.pdf",
+    "image": "images/Drunken_Beans.jpg",
+    "category": "vegetarian",
+    "course": "side",
+    "cuisine": "other"
+  },
+  {
+    "text": "Dark Chocolate Fudge Sauce",
+    "file": "Dark_Chocolate_Fudge_Sauce.pdf",
+    "image": "images/Dark_Chocolate_Fudge_Sauce.jpg",
+    "category": "vegetarian",
+    "course": "desert",
+    "cuisine": "other"
+  },
+  {
+    "text": "Easy Grilled Boneless Pork Chops",
+    "file": "Easy_Grilled_Boneless_Pork_Chops.pdf",
+    "image": "images/Easy_Grilled_Boneless_Pork_Chops.jpg",
+    "category": "meat",
+    "course": "entre",
+    "cuisine": "other"
+  },
+  {
+    "text": "Farmhouse Vegetable and Barley Soup",
+    "file": "Farmhouse_Vegetable_and_Barley_Soup.pdf",
+    "image": "images/Farmhouse_Vegetable_and_Barley_Soup.jpg",
+    "category": "vegetarian",
+    "course": "starter",
+    "cuisine": "other"
+  },
+  {
+    "text": "Fennel-Coriander Top Sirloin Roast",
+    "file": "Fennel-Coriander_Top_Sirloin_Roast.pdf",
+    "image": "images/Fennel-Coriander_Top_Sirloin_Roast.jpg",
+    "category": "meat",
+    "course": "entre",
+    "cuisine": "other"
+  },
+  {
+    "text": "Foolproof New York Cheesecake",
+    "file": "Foolproof_New_York_Cheesecake.pdf",
+    "image": "images/Foolproof_New_York_Cheesecake.jpg",
+    "category": "other",
+    "course": "desert",
+    "cuisine": "other"
+  },
+  {
+    "text": "Garlic-Lime Grilled Pork Tenderloin Steaks",
+    "file": "Garlic-Lime_Grilled_Pork_Tenderloin_Steaks.pdf",
+    "image": "images/Garlic-Lime_Grilled_Pork_Tenderloin_Steaks.jpg",
+    "category": "meat",
+    "course": "entre",
+    "cuisine": "other"
+  },
+  {
+    "text": "Grilled Chicken Souvlaki",
+    "file": "Grilled_Chicken_Souvlaki.pdf",
+    "image": "images/Grilled_Chicken_Souvlaki.jpg",
+    "category": "poultry",
+    "course": "entre",
+    "cuisine": "Greek"
+  },
+  {
+    "text": "Grilled Pork Kebabs with Hoisin and Five-Spice",
+    "file": "Grilled_Pork_Kebabs_with_Hoisin_and_Five-Spice.pdf",
+    "image": "images/Grilled_Pork_Kebabs_with_Hoisin_and_Five-Spice.jpg",
+    "category": "meat",
+    "course": "entre",
+    "cuisine": "Asian"
+  },
+  {
+    "text": "Grilled Stuffed Pork Tenderloin",
+    "file": "Grilled_Stuffed_Pork_Tenderloin.pdf",
+    "image": "images/Grilled_Stuffed_Pork_Tenderloin.jpg",
+    "category": "meat",
+    "course": "entre",
+    "cuisine": "other"
+  },
+  {
+    "text": "Indian-Style Spinach with Fresh Cheese (Saag Paneer)",
+    "file": "Indian-Style_Spinach_with_Fresh_Cheese_(Saag_Paneer).pdf",
+    "image": "images/Indian-Style_Spinach_with_Fresh_Cheese_(Saag_Paneer).jpg",
+    "category": "vegetarian",
+    "course": "side",
+    "cuisine": "Indian"
+  },
+  {
+    "text": "Indian Flatbread (Naan)",
+    "file": "Indian_Flatbread_(Naan).pdf",
+    "image": "images/Indian_Flatbread_(Naan).jpg",
+    "category": "bread",
+    "course": "starter",
+    "cuisine": "Indian"
+  },
+  {
+    "text": "Italian Vegetable Stew (Ciambotta)",
+    "file": "Italian_Vegetable_Stew_(Ciambotta).pdf",
+    "image": "images/Italian_Vegetable_Stew_(Ciambotta).jpg",
+    "category": "vegetarian",
+    "course": "side",
+    "cuisine": "Italian"
+  },
+  {
+    "text": "Kung Pao Chicken",
+    "file": "Kung_Pao_Chicken.pdf",
+    "image": "images/reshoot-kung-pao.jpg",
+    "category": "poultry",
+    "course": "entre",
+    "cuisine": "Asian"
+  },
+  {
+    "text": "Lentil-Mushroom Meatballs",
+    "file": "Lentil-Mushroom_Meatballs.pdf",
+    "image": "images/Lentil-Mushroom_Meatballs.jpg",
+    "category": "vegetarian",
+    "course": "entre",
+    "cuisine": "other"
+  },
+  {
+    "text": "Lentil Salad with Olives Mint and Feta",
+    "file": "Lentil_Salad_with_Olives_Mint_and_Feta.pdf",
+    "image": "images/Lentil_Salad_with_Olives_Mint_and_Feta.jpg",
+    "category": "vegetarian",
+    "course": "side",
+    "cuisine": "Greek"
+  },
+  {
+    "text": "Mahogany Chicken Thighs",
+    "file": "Mahogany_Chicken_Thighs.pdf",
+    "image": "images/Mahogany_Chicken_Thighs.jpg",
+    "category": "poultry",
+    "course": "entre",
+    "cuisine": "other"
+  },
+  {
+    "text": "Mushroom and Leek Galette with Gorgonzola",
+    "file": "Mushroom_and_Leek_Galette_with_Gorgonzola.pdf",
+    "image": "images/Mushroom_and_Leek_Galette_with_Gorgonzola.jpg",
+    "category": "vegetarian",
+    "course": "side",
+    "cuisine": "French"
+  },
+  {
+    "text": "Mushroom Parmesan",
+    "file": "Mushroom_Parmesan.pdf",
+    "image": "images/Mushroom_Parmesan.jpg",
+    "category": "vegetarian",
+    "course": "entre",
+    "cuisine": "Italian"
+  },
+  {
+    "text": "Oven-Steamed Fish with Scallions and Ginger",
+    "file": "Oven-Steamed_Fish_with_Scallions_and_Ginger.pdf",
+    "image": "images/chinese_style_steamed_cod.jpg",
+    "category": "fish",
+    "course": "entre",
+    "cuisine": "other"
+  },
+  {
+    "text": "Pan-Seared Swordfish Steaks",
+    "file": "Pan-Seared_Swordfish_Steaks.pdf",
+    "image": "images/pan-seared-swordfish-steaks.jpg",
+    "category": "fish",
+    "course": "entre",
+    "cuisine": "other"
+  },
+  {
+    "text": "Pear Crisp",
+    "file": "Pear_Crisp.pdf",
+    "image": "images/pearcrisp.jpg",
+    "category": "other",
+    "course": "desert",
+    "cuisine": "other"
+  },
+  {
+    "text": "Pita Bread",
+    "file": "Pita_Bread.pdf",
+    "image": "images/pita-bread.jpg",
+    "category": "bread",
+    "course": "starter",
+    "cuisine": "Greek"
+  },
+  {
+    "text": "Perfect Poached Chicken Breasts",
+    "file": "Perfect_Poached_Chicken_Breasts.pdf",
+    "image": "images/Perfect_Poached_Chicken_Breasts.jpg",
+    "category": "poultry",
+    "course": "entre",
+    "cuisine": "other"
+  },
+  {
+    "text": "Portobello Wellington",
+    "file": "Portobello_Wellington.pdf",
+    "image": "images/Portobello_Wellington.jpg",
+    "category": "vegetarian",
+    "course": "entre",
+    "cuisine": "other"
+  },
+  {
+    "text": "Potato Casserole with Bacon and Caramelized Onion",
+    "file": "Potato_Casserole_with_Bacon_and_Caramelized_Onion.pdf",
+    "image": "images/Potato_Casserole_with_Bacon_and_Caramelized_Onion.jpg",
+    "category": "other",
+    "course": "side",
+    "cuisine": "other"
+  },
+  {
+    "text": "Potato Pancakes",
+    "file": "Texas Potato Pancakes.pdf",
+    "image": "images/potato-pancakes.jfif",
+    "category": "vegetarian",
+    "course": "side",
+    "cuisine": "German"
+  },
+  {
+    "text": "Rice and Lentils with Crispy Onions (Mujaddara)",
+    "file": "Rice_and_Lentils_with_Crispy_Onions_(Mujaddara).pdf",
+    "image": "images/Rice_and_Lentils_with_Crispy_Onions_(Mujaddara).jpg",
+    "category": "vegetarian",
+    "course": "side",
+    "cuisine": "Indian"
+  },
+  {
+    "text": "Roasted Brined Turkey",
+    "file": "Roasted_Brined_Turkey.pdf",
+    "image": "images/Roasted_Brined_Turkey.jpg",
+    "category": "poultry",
+    "course": "entre",
+    "cuisine": "other"
+  },
+  {
+    "text": "Roasted Brussels Sprouts",
+    "file": "Roasted_Brussels_Sprouts.pdf",
+    "image": "images/Roasted_Brussels_Sprouts.jpg",
+    "category": "vegetarian",
+    "course": "side",
+    "cuisine": "other"
+  },
+  {
+    "text": "Roasted Fingerling Potatoes with Mixed Herbs",
+    "file": "Roasted_Fingerling_Potatoes_with_Mixed_Herbs.pdf",
+    "image": "images/roasted_fingerling_potatoes_mixed_herbs.jpg",
+    "category": "vegetarian",
+    "course": "side",
+    "cuisine": "other"
+  },
+  {
+    "text": "Roasted Rack of Lamb with Sweet Mint-Almond Relish",
+    "file": "Roasted_Rack_of_Lamb_with_Sweet_Mint-Almond_Relish.pdf",
+    "image": "images/Roasted_Rack_of_Lamb_with_Sweet_Mint-Almond_Relish.jpg",
+    "category": "meat",
+    "course": "entre",
+    "cuisine": "other"
+  },
+  {
+    "text": "Root Vegetable Gratin",
+    "file": "Root_Vegetable_Gratin.pdf",
+    "image": "images/Root_Vegetable_Gratin.jpg",
+    "category": "vegetarian",
+    "course": "side",
+    "cuisine": "other"
+  },
+  {
+    "text": "Savory Corn Muffins",
+    "file": "Savory_Corn_Muffins.pdf",
+    "image": "images/Savory_Corn_Muffins.jpg",
+    "category": "bread",
+    "course": "starter",
+    "cuisine": "other"
+  },
+  {
+    "text": "Scallion Pancakes with Dipping Sauce",
+    "file": "Scallion_Pancakes_with_Dipping_Sauce.pdf",
+    "image": "images/Scallion_Pancakes_with_Dipping_Sauce.png",
+    "category": "bread",
+    "course": "starter",
+    "cuisine": "other"
+  },
+  {
+    "text": "Shredded Beef Tacos (Carne Deshebrada)",
+    "file": "Shredded_Beef_Tacos_(Carne_Deshebrada).pdf",
+    "image": "images/Shredded_Beef_Tacos_(Carne_Deshebrada).jpg",
+    "category": "meat",
+    "course": "entre",
+    "cuisine": "Mexican"
+  },
+  {
+    "text": "Slow-Roasted Chicken Parts with Shallot-Garlic Pan Sauce",
+    "file": "Slow-Roasted_Chicken_Parts_with_Shallot-Garlic_Pan_Sauce.pdf",
+    "image": "images/Slow-Roasted_Chicken_Parts_with_Shallot-Garlic_Pan_Sauce.jpg",
+    "category": "poultry",
+    "course": "entre",
+    "cuisine": "other"
+  },
+  {
+    "text": "Strawberry-Rhubarb Pie",
+    "file": "Strawberry-Rhubarb_Pie.pdf",
+    "image": "images/Strawberry-Rhubarb_Pie.jpg",
+    "category": "vegetarian",
+    "course": "desert",
+    "cuisine": "other"
+  },
+  {
+    "text": "Sweet and Tangy Grilled Country-Style Pork Ribs",
+    "file": "Sweet_and_Tangy_Grilled_Country-Style_Pork_Ribs.pdf",
+    "image": "images/Sweet_and_Tangy_Grilled_Country-Style_Pork_Ribs.jpg",
+    "category": "meat",
+    "course": "entre",
+    "cuisine": "other"
+  },
+  {
+    "text": "Tender Juicy Grilled Burgers",
+    "file": "Tender_Juicy_Grilled_Burgers.pdf",
+    "image": "images/Tender_Juicy_Grilled_Burgers.jpg",
+    "category": "meat",
+    "course": "entre",
+    "cuisine": "other"
+  },
+  {
+    "text": "Thai Chicken Curry with Potatoes and Peanuts",
+    "file": "Thai_Chicken_Curry_with_Potatoes_and_Peanuts.pdf",
+    "image": "images/Thai_Chicken_Curry_with_Potatoes_and_Peanuts.jpg",
+    "category": "poultry",
+    "course": "entre",
+    "cuisine": "Asian"
+  },
+  {
+    "text": "Thick-Cut Sweet Potato Fries",
+    "file": "Thick-Cut_Sweet_Potato_Fries.pdf",
+    "image": "images/Thick-Cut_Sweet_Potato_Fries.jpg",
+    "category": "vegetarian",
+    "course": "side",
+    "cuisine": "other"
+  },
+  {
+    "text": "Tuscan-Style Beef Stew",
+    "file": "Tuscan-Style_Beef_Stew.pdf",
+    "image": "images/Tuscan-Style_Beef_Stew.jpg",
+    "category": "meat",
+    "course": "entre",
+    "cuisine": "French"
+  },
+  {
+    "text": "Ultimate Flaky Buttermilk Biscuits",
+    "file": "Ultimate_Flaky_Buttermilk_Biscuits.pdf",
+    "image": "images/Ultimate_Flaky_Buttermilk_Biscuits.jpg",
+    "category": "bread",
+    "course": "starter",
+    "cuisine": "other"
+  },
+  {
+    "text": "Ultimate Charcoal-Grilled Steaks",
+    "file": "Ultimate_Charcoal-Grilled_Steaks.pdf",
+    "image": "images/Ultimate_Charcoal-Grilled_Steaks.jpg",
+    "category": "meat",
+    "course": "entre",
+    "cuisine": "other"
+  },
+  {
+    "text": "Vegan Buffalo Cauliflower Bites",
+    "file": "Vegan_Buffalo_Cauliflower_Bites.pdf",
+    "image": "images/buffalo-cauliflower.jpg",
+    "category": "vegetarian",
+    "course": "side",
+    "cuisine": "other"
+  },
+  {
+    "text": "Vegetarian Chickern-Fried Portobello Mushroom Steaks",
+    "file": "Vegetarian_Chickern-Fried_Portobello_Mushroom_Steaks.pdf",
+    "image": "images/Vegetarian_Chickern-Fried_Portobello_Mushroom_Steaks.jpg",
+    "category": "vegetarian",
+    "course": "entre",
+    "cuisine": "other"
+  },
+  {
+    "text": "Vietnamese Grilled Pork Patties with Rice Noodles and Salad (Bun Cha)",
+    "file": "Vietnamese Grilled Pork Patties with Rice Noodles and Salad (Bun Cha).pdf",
+    "image": "images/vietnamese-grilled-pork-patties-rice-noodles-salad.jpg",
+    "category": "meat",
+    "course": "entre",
+    "cuisine": "Asian"
+  },
+  {
+    "text": "Vietnamese-Style Caramel Chicken with Broccoli",
+    "file": "Vietnamese-Style_Caramel_Chicken_with_Broccoli.pdf",
+    "image": "images/Vietnamese-Style_Caramel_Chicken_with_Broccoli.jpg",
+    "category": "poultry",
+    "course": "entre",
+    "cuisine": "Asian"
+  }
+]

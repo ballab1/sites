@@ -1,0 +1,239 @@
+[
+  {
+    "text": "S3: old",
+    "ref": "https://s3.ubuntu.home/index.html",
+    "image": "images/jenkins.png"
+  },
+  {
+    "text": "S3: Jenkins",
+    "ref": "https://s3.ubuntu.home/jenkins",
+    "image": "images/jenkins.png"
+  },
+  {
+    "text": "S3: Nagios",
+    "ref": "https://s3.ubuntu.home/nagios",
+    "image": "images/nagios.png"
+  },
+  {
+    "text": "S3: phpMyAdmin for mySQL",
+    "ref": "https://s3.ubuntu.home/phpmyadmin/index.php",
+    "image": "images/blank.png"
+  },
+  {
+    "text": "S3: WebDAV",
+    "ref": "https://s3.ubuntu.home/webdav",
+    "image": "images/blank.png"
+  },
+  {
+    "break": true
+  },
+  {
+    "text": "K8S: Recipes",
+    "ref": "#",
+    "id": "recipes",
+    "image": "images/recipes.jfif"
+  },
+  {
+    "text": "K8S: Versions",
+    "ref": "#",
+    "id": "versions",
+    "image": "images/versions.jfif"
+  },
+  {
+    "text": "K8S: cmak",
+    "ref": "#",
+    "id": "cmak",
+    "image": "images/blank.png"
+  },
+  {
+    "text": "K8S: kowl",
+    "ref": "#",
+    "id": "kowl",
+    "image": "images/blank.png"
+  },
+  {
+    "text": "K8S: pgAdmin4",
+    "ref": "#",
+    "id": "pgadmin4",
+    "image": "images/blank.png"
+  },
+  {
+    "text": "K8S: ZooNavigator",
+    "ref": "#",
+    "id": "zoonavigator",
+    "image": "images/blank.png"
+  },
+  {
+    "break": true
+  },
+  {
+    "text": "K8S: ArgoCD",
+    "ref": "#",
+    "id": "argocd-server",
+    "image": "images/versions.jfif"
+  },
+  {
+    "text": "K8S: Grafana",
+    "ref": "#",
+    "id": "grafana",
+    "image": "images/blank.png"
+  },
+  {
+    "text": "K8S: Kubernetes Dashboard",
+    "ref": "#",
+    "id": "kubernetes-dashboard",
+    "image": "images/blank.png"
+  },
+  {
+    "text": "K8S: Prometheus Alertmanager",
+    "ref": "#",
+    "id": "alertmanager-main",
+    "image": "images/blank.png"
+  },
+  {
+    "text": "K8S: Prometheus",
+    "ref": "#",
+    "id": "prometheus-k8s",
+    "image": "images/blank.png"
+  },
+  {
+    "text": "K8S: Kibana",
+    "ref": "#",
+    "id": "kibana-logging",
+    "image": "images/blank.png"
+  },
+  {
+    "break": true
+  },
+  {
+    "text": "MinIO: #3",
+    "ref": "http://10.3.1.8:9001/tools/metrics",
+    "image": "images/blank.png"
+  },
+  {
+    "text": "bridge: Motorola",
+    "ref": "http://192.168.1.100",
+    "image": "images/blank.png"
+  },
+  {
+    "text": "ext: SMEE",
+    "ref": "https://smee.io/F9gFiEeTza0Po4Rd",
+    "image": "images/blank.png"
+  },
+  {
+    "text": "ext: Slack",
+    "ref": "http://soho-ball.slack.com",
+    "image": "images/blank.png"
+  },
+  {
+    "text": "nas: Synology NAS",
+    "ref": "https://10.3.1.4:5001",
+    "image": "images/blank.png"
+  },
+  {
+    "text": "nas: Ballantyne Photo Album",
+    "ref": "https://nas.honme/photo",
+    "image": "images/blank.png"
+  },
+  {
+    "text": "router: Netgear R7000",
+    "ref": "http://router.home/start.htm",
+    "image": "images/blank.png"
+  },
+  {
+    "text": "S2: Docker Registry",
+    "ref": "http://router.home2:5000/v2/_catalog",
+    "image": "images/blank.png"
+  },
+  {
+    "text": "TPLink: switch",
+    "ref": "http://tplink.home",
+    "image": "images/blank.png"
+  },
+  {
+    "text": "wdmycloud: WD My Cloud",
+    "ref": "http://wdmycloud.home/UI",
+    "image": "images/blank.png"
+  },
+  {
+    "break": true
+  },
+  {
+    "text": "S3: Echo test webservice",
+    "ref": "https://s3.ubuntu.home/phpinfo/echo.php",
+    "image": "images/blank.png"
+  },
+  {
+    "text": "S3: PNP for Nagios",
+    "ref": "https://s3.ubuntu.home/pnp4nagios",
+    "image": "images/blank.png"
+  },
+  {
+    "text": "S3: PHP info",
+    "ref": "https://s3.ubuntu.home/phpinfo/index.php",
+    "image": "images/blank.png"
+  },
+  {
+    "text": "S3: PHP-FPM statuSpage",
+    "ref": "https://s3.ubuntu.home/phpinfo/status.html",
+    "image": "images/blank.png"
+  },
+  {
+    "text": "S3: results - coverage",
+    "ref": "https://s3.ubuntu.home/html/",
+    "image": "images/blank.png"
+  },
+  {
+    "text": "S3: results - test",
+    "ref": "https://s3.ubuntu.home/test/",
+    "image": "images/blank.png"
+  },
+  {
+    "break": true
+  },
+  {
+    "text": "Wireshark: pi",
+    "ref": "https://pi.ubuntu.home:14500/?username=wireshark&password=wireshark",
+    "image": "images/blank.png"
+  },
+  {
+    "text": "Wireshark: s1",
+    "ref": "https://s1.ubuntu.home:14500/?username=wireshark&password=wireshark",
+    "image": "images/blank.png"
+  },
+  {
+    "text": "Wireshark: s2",
+    "ref": "https://s2.ubuntu.home:14500/?username=wireshark&password=wireshark",
+    "image": "images/blank.png"
+  },
+  {
+    "text": "Wireshark: s3",
+    "ref": "https://s3.ubuntu.home:14500/?username=wireshark&password=wireshark",
+    "image": "images/blank.png"
+  },
+  {
+    "text": "Wireshark: s4",
+    "ref": "https://s4.ubuntu.home:14500/?username=wireshark&password=wireshark",
+    "image": "images/blank.png"
+  },
+  {
+    "text": "Wireshark: s5",
+    "ref": "https://s5.ubuntu.home:14500/?username=wireshark&password=wireshark",
+    "image": "images/blank.png"
+  },
+  {
+    "text": "Wireshark: s6",
+    "ref": "https://s6.ubuntu.home:14500/?username=wireshark&password=wireshark",
+    "image": "images/blank.png"
+  },
+  {
+    "text": "Wireshark: s7",
+    "ref": "https://s7.ubuntu.home:14500/?username=wireshark&password=wireshark",
+    "image": "images/blank.png"
+  },
+  {
+    "text": "Wireshark: s8",
+    "ref": "https://s8.ubuntu.home:14500/?username=wireshark&password=wireshark",
+    "image": "images/blank.png"
+  }
+]

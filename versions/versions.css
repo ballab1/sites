@@ -1,0 +1,84 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background: white;
+  color: black;
+  font-family: Tahoma, Verdana, Arial, sans-serif;
+  font-size: 10pt;
+  height: 100%;
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+}
+.all {
+  height: 100%;
+  width: 100%;
+}
+.box {
+  display: table-cell;
+  padding: 3px 3px 3px 3px;
+}
+.center {
+  width: auto;
+  margin: 0 auto;
+}
+.footer {
+  background: green;
+  color: beige;
+  display: table-row;
+  height:10px;
+  width: 100%;
+}
+.header {
+  border: 3px solid #CCCCCC;
+  box-shadow: 1px 0px 0 3px #CCCCCC;
+  color: #4281C8;
+}
+.middle {
+  width: 90%;
+}
+.summary {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 12px;
+}
+.left {
+  text-align: left;
+  width: 25%;
+}
+.row {
+  display: table-row;
+  width: 100%;
+  margin: 15px;
+}
+.leftsidebar {
+  position: relative;
+  width: 80px;
+  left: 0px;
+  top: 0px
+}
+.rightsidebar {
+  position: relative;
+  width: 80px;
+  right: 0px;
+  top: 0px
+}
+.table {
+  display: table;
+}
+.title {
+  font-size: 25pt;
+  font-weight: bold;
+  padding: 10px 10px 10px 10px;
+}
+.version {
+  text-align: right;
+  width: 20%;
+}
+.vspace {
+  height:10px;
+}
+.wspace {
+  width:80px;
+}
