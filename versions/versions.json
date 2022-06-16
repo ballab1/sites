@@ -67,7 +67,7 @@
 {
   "name":"elasticsearch",
   "id":"ELASTICSEARCH_VERSION",
-  "version":"8.2.2",
+  "version":"8.2.3",
   "url":"https://www.elastic.co/downloads/elasticsearch"
 },
 {
@@ -102,7 +102,7 @@
 {
   "name":"grafana",
   "id":"GRAFANA_VERSION",
-  "version":"8.5.5",
+  "version":"8.5.6",
   "url":"https://hub.docker.com/r/grafana/grafana/tags",
   "docs":"https://grafana.com/grafana/download",
   "git":"https://github.com/grafana/grafana"
@@ -253,7 +253,7 @@
 {
   "name":"postgresql",
   "id":"POSTGRES_VERSION",
-  "version":"14.3",
+  "version":"14.4",
   "url":"https://www.postgresql.org",
   "git":"https://github.com/postgres/postgres"
 },
